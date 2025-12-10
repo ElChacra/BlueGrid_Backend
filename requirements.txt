@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+requests
+psycopg2-binary
+numpy
+opencv-python-headless
+torch
+transformers
+pillow
+pandas
